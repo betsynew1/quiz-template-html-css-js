@@ -16,48 +16,6 @@ var HTMLquestions=[
     },
     
     {
-        question: "HTML uses :",
-        choices: ["User defined tags","Pre-specified tags","Fixed tags defined by the language","Tags only for linking"],
-        answer: 3
-    
-    },
-    {
-        question: "The year in which HTML was first proposed _______.",
-        choices: ["1990","1980","2000","1995"],
-        answer: 1
-    
-    },
-    {
-        question: "Apart from <b> tag, what other tag makes text bold ?",
-        choices: ["fat","strong","black","emp"],
-        answer: 2
-    
-    },
-    {/*5*/
-        question: "How can you make a bulleted list with numbers? ",
-        choices: ["dl","ol","list","ul"],
-        answer: 2
-    
-    },
-    {
-        question: "What tag is used to display a picture in a HTML page?",
-        choices: ["picture","image","pic","img"],
-        answer: 4
-    
-    }, 
-    {
-        question: "HTML web pages can be read and rendered by _________.",
-        choices: ["Compiler","Server","Web Browser","Interpreter"],
-        answer: 3
-    
-    }, 
-    {
-        question: "Which of the following is not a browser ?",
-        choices: ["Microsofts Bing","Netscape Navigator","Mozilla Firefox","Opera"],
-        answer: 1
-    
-    }, 
-    {
         question: "HTML tags are surrounded by which type of brackets.",
         choices: ["Curly","Round","Squart","Angle"],
         answer: 4
@@ -72,67 +30,21 @@ var HTMLquestions=[
                 
 ];
 
+
 var CSSquestions=[
 
     {
-        question: "If we want define style for an unique element, then which css selector will we use ?",
-        choices: ["Id","text","class","name"],
+        question: "What is the correct syntaz to import NumPy?",
+        choices: ["import numpy","import.numpy","load numpy","import numpie"],
         answer: 1
     
     }, 
+
     {
-        question: "If we don't want to allow a floating div to the left side of an element, which css property will we use ?",
-        choices: ["margin","clear","float","padding"],
-        answer: 2
-    
-    },
-    {
-        question: "Suppose we want to arragnge five nos. of DIVs so that DIV4 is placed above DIV1. Now, which css property will we use to control the order of stack ?",
-        choices: ["d-inex","s-index","x-index","z-index"],
+        question: "What library allows the user to display data visually in various plots?",
+        choices: ["Numpy","Plotter","Plotmobile","Matplotlib"],
         answer: 4
-    
-    }, 
-    {/*4*/
-        question: "Can we align a Block element by setting the left and right margins ?",
-        choices: ["Yes, we can","Not Possible","Depends on browser","Depends upon operating System"],
-        answer: 2
-    
-    },
-    {
-        question: "If we want to wrap a block of text around an image, which css property will we use ?",
-        choices: ["wrap","push","float","align"],
-        answer: 3
-    
-    },
-    {/*6*/
-        question: "If we want to show an Arrow as cursor, then which value we will use ?",
-        choices: ["pointer","default","arrow","arr"],
-        answer: 2
-    
-    }, 
-    {
-        question: "If we want to use a nice looking green dotted border around an image, which css property will we use?",
-        choices: ["border-color","border-decoration","border-style","border-line"],
-        answer: 3
-    
-    },
-    {/*8*/
-        question: "Which of the following properties will we use to display border around a cell without any content ?",
-        choices: ["empty-cell","blank-cell","noncontent-cell","void-cell"],
-        answer: 1
-    
-    }, 
-    {
-        question: "What should be the table width, so that the width of a table adjust to the current width of the browser window?",
-        choices: ["640 pixels","100%","full-screen","1024px"],
-        answer: 2
-    
-    },
-    {
-        question: "How can we write comment along with CSS code ?",
-        choices: ["/* a comment */","// a comment //","/ a comment /","<' a comment'>"],
-        answer: 1
-    
+
     }
                 
 ];
@@ -192,13 +104,7 @@ var JSquestions=[
         answer: 2
     
     },
-    {
-        question: "What is the alternate name for Java script?",
-        choices: ["LimeScript","ECMScript","Both of the above","ECMAScript"],
-        answer: 4
-    
-    }
-                
+
 ];
 var PYquestions=[
 
@@ -272,54 +178,7 @@ var Cquestions=[
         answer: 1
     
     }, 
-    {
-        question: "Which one is not a reserve keyword in C Language?",
-        choices: ["auto","main","case","register"],
-        answer: 2
-    
-    },
-    {
-        question: "A C variable name can start with a ____",
-        choices: ["Number","Plus Sign","Underscore","Asterisk"],
-        answer: 3
-    
-    }, 
-    {
-        question: "Prototype of a function means _____",
-        choices: ["Name of Function","Output of Function","Declaration of Function","Input of a Function"],
-        answer: 3
-    
-    },
-    {
-        question: "Name the loop that executes at least once.",
-        choices: ["for","If","do-while","while"],
-        answer: 3
-    
-    },
-    {
-        question: "Far pointer can access _____",
-        choices: ["Single memory location","No memory location","All memory location","First and Last Memory Address"],
-        answer: 3
-    
-    }, 
-    {
-        question: "A pointer pointing to a memory location of the variable even after deletion of the variavle is known as _____",
-        choices: ["far pointer","dangling pointer","null pointer","void pointer"],
-        answer: 2
-    
-    },
-    {
-        question: "An uninitialized pointer in C is called ___",
-        choices: ["Constructor","dangling pointer","Wild Pointer","Destructor"],
-        answer: 3
-    
-    }, 
-    {
-        question: "A pointer that is pointing to NOTHING is called ____",
-        choices: ["VOID Pointer","DANGLING Pointer","NULL Pointer","WILD Pointer"],
-        answer: 3
-    
-    },
+
     {
         question: "Who is known as the father of C Language ?",
         choices: ["Digvijay","James A. Sosling","Dr. E. F. Codd","Dennis Ritchie"],
@@ -328,8 +187,6 @@ var Cquestions=[
     }
                 
 ];
-
-
 
 
 
